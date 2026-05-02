@@ -143,7 +143,7 @@ When you launch the app, you are simulating a real-world property valuation port
    git add .
    git commit -m "Initial commit: Complete End-to-End House Price Prediction System"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/House-Price-Prediction-ML.git
+   git remote add origin https://github.com/HarshalNavale45/House-Price-Prediction-ML.git
    git push -u origin main
    ```
 3. **Tags to Add on GitHub:** `machine-learning`, `data-science`, `regression`, `xgboost`, `streamlit`, `real-estate`.
